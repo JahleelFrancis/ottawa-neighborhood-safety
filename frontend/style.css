@@ -291,3 +291,28 @@ body {
         padding: 12px;
     }
 }
+/* Area Overview */
+.area-summary {
+    background: #333;
+    padding: 14px;
+    border-radius: 6px;
+    margin-top: 12px;
+    border-left: 4px solid #3b82f6;
+}
+
+.area-summary h3 {
+    margin: 0 0 8px 0;
+    font-size: 13px;
+    font-weight: 700;
+    color: #9fd3ff;
+    text-transform: uppercase;
+    letter-spacing: 0.6px;
+}
+
+.area-summary p {
+    margin: 0;
+    font-size: 13px;
+    color: #ddd;
+    line-height: 1.5;
+}
+

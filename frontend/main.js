@@ -70,22 +70,67 @@ function getSafetyColor(score) {
   return "#F44336"; // Red
 }
 
+function titleCase(str) {
+    return String(str)
+        .toLowerCase()
+        .split(" ")
+        .filter(Boolean)
+        .map(w => w.charAt(0).toUpperCase() + w.slice(1))
+        .join(" ");
+}
+
+function generateAreaSummary(neighborhood) {
+    const score = Number(neighborhood.safety_score) || 0;
+    const incidents = Number(neighborhood.crime_count) || 0;
+
+    const commonCrimeRaw = neighborhood.crime_types?.[0] || "general incidents";
+    const commonCrime = titleCase(commonCrimeRaw);
+
+    // Simple, demo-friendly "AI" logic: score + incident count
+    if (score >= 4.5 && incidents <= 20) {
+        return `This area is generally a strong pick for safety-focused living. Reported incidents are relatively low, and the most common issue is ${commonCrime}. Great for families, students, and quieter day-to-day routines.`;
+    }
+
+    if (score >= 4.0) {
+        return `This neighborhood scores well overall and is a solid option for most people. Incidents do occur, most often involving ${commonCrime}, but risk is typically manageable with normal precautions.`;
+    }
+
+    if (score >= 3.0) {
+        return `This area is a mixed option: safety is moderate and incidents are more frequent. ${commonCrime} shows up often, so it’s best to stay aware at night and in low-traffic spots.`;
+    }
+
+    return `This area appears higher-risk based on recent incident patterns. ${commonCrime} is a frequent concern, and it may be a less ideal choice for those prioritizing safety—especially after dark.`;
+}
+
+
 // Update sidebar with neighborhood details
 function updateSidebar(neighborhood) {
-  const titleEl = document.getElementById("title");
-  const contentEl = document.getElementById("content");
+    const titleEl = document.getElementById('title');
+    const contentEl = document.getElementById('content');
 
-  titleEl.textContent = neighborhood.name;
-  contentEl.innerHTML = `
-    <div class="safety-score">Safety Score: ${neighborhood.safety_score.toFixed(
-      1
-    )}/5</div>
-    <div class="crime-stats">
-      <p><strong>Incidents:</strong> ${neighborhood.crime_count} (last 30 days)</p>
-      <p><strong>Most common:</strong> ${neighborhood.crime_types[0] || "N/A"}</p>
-    </div>
-  `;
+    titleEl.textContent = neighborhood.name;
+
+    const mostCommon = neighborhood.crime_types?.[0]
+        ? titleCase(neighborhood.crime_types[0])
+        : 'N/A';
+
+    const summary = generateAreaSummary(neighborhood);
+
+    contentEl.innerHTML = `
+        <div class="safety-score">Safety Score: ${neighborhood.safety_score}/5</div>
+
+        <div class="crime-stats">
+            <p><strong>Incidents:</strong> ${neighborhood.crime_count} (last 30 days)</p>
+            <p><strong>Most common:</strong> ${mostCommon}</p>
+        </div>
+
+        <div class="area-summary">
+            <h3>Area Overview</h3>
+            <p>${summary}</p>
+        </div>
+    `;
 }
+
 
 // Hardcoded demo data (more neighborhoods so the map looks full)
 function getSampleData() {
