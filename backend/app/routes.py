@@ -49,21 +49,6 @@ def list_neighbourhoods():
 
     return {"neighbourhoods": sorted(MOCK_DATA.keys())}
 
-@router.get("/geojson")
-def get_geojson():
-    data_dir = Path(__file__).resolve().parents[2] / "data"
-    candidates = [
-        data_dir / "ottawa-neighborhoods.geojson",
-        data_dir / "ottawa-neighbourhoods.geojson",
-    ]
-    geo_path = next((p for p in candidates if p.exists()), None)
-
-    if not geo_path:
-        raise HTTPException(status_code=404, detail=f"GeoJSON not found. Looked in: {[str(p) for p in candidates]}")
-
-    return FileResponse(str(geo_path), media_type="application/geo+json")
-
-
 
 @router.get("/report")
 def get_report(
