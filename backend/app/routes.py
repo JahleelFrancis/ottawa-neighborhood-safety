@@ -2,6 +2,8 @@ from fastapi import APIRouter, Query, HTTPException
 from datetime import datetime, timezone
 from app.data_loader import load_dataset
 from app.scoring import compute_score_and_risk
+from fastapi.responses import FileResponse
+from pathlib import Path
 
 
 router = APIRouter()
@@ -46,6 +48,21 @@ def list_neighbourhoods():
             return {"neighbourhoods": sorted(neigh_map.keys())}
 
     return {"neighbourhoods": sorted(MOCK_DATA.keys())}
+
+@router.get("/geojson")
+def get_geojson():
+    data_dir = Path(__file__).resolve().parents[2] / "data"
+    candidates = [
+        data_dir / "ottawa-neighborhoods.geojson",
+        data_dir / "ottawa-neighbourhoods.geojson",
+    ]
+    geo_path = next((p for p in candidates if p.exists()), None)
+
+    if not geo_path:
+        raise HTTPException(status_code=404, detail=f"GeoJSON not found. Looked in: {[str(p) for p in candidates]}")
+
+    return FileResponse(str(geo_path), media_type="application/geo+json")
+
 
 
 @router.get("/report")
