@@ -60,8 +60,8 @@ function getSafetyColor(score) {
 
 // Update sidebar with neighborhood details
 function updateSidebar(neighborhood) {
-    const titleEl = document.querySelector('#sidebar .title');
-    const contentEl = document.querySelector('#sidebar .content');
+    const titleEl = document.querySelector('#title');
+    const contentEl = document.querySelector('#content');
     
     titleEl.textContent = neighborhood.name;
     contentEl.innerHTML = `
