@@ -85,6 +85,32 @@ body {
     background: #888;
 }
 
+#search-wrap {
+  padding: 12px 16px;
+  border-bottom: 1px solid #444;
+  background: #222;
+}
+
+#search {
+  width: 100%;
+  padding: 10px 12px;
+  border-radius: 8px;
+  border: 1px solid #444;
+  background: #1a1a1a;
+  color: #fff;
+  outline: none;
+  font-size: 14px;
+}
+
+#search::placeholder {
+  color: #888;
+}
+
+#search:focus {
+  border-color: #9fd3ff;
+}
+
+
 /* Neighborhood Cards */
 .neighborhood-card {
     background: #333;
@@ -315,4 +341,93 @@ body {
     color: #ddd;
     line-height: 1.5;
 }
+
+/* ---- Tier 1 additions: Verdict + Overview + Selected marker ---- */
+
+.verdict {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 12px 14px;
+  border-radius: 8px;
+  background: #2b2b2b;
+  border: 1px solid #3b3b3b;
+}
+
+.verdict-dot {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+}
+
+.verdict-dot.good { background: #4CAF50; }
+.verdict-dot.caution { background: #FF9800; }
+.verdict-dot.bad { background: #F44336; }
+
+.verdict-text {
+  font-size: 14px;
+  font-weight: 600;
+  letter-spacing: 0.2px;
+}
+
+.overview-card {
+  background: #333;
+  padding: 14px;
+  border-radius: 8px;
+  border: 1px solid #3f3f3f;
+}
+
+.overview-title {
+  font-size: 13px;
+  font-weight: 700;
+  color: #fff;
+  margin-bottom: 10px;
+  text-transform: uppercase;
+  letter-spacing: 0.7px;
+  opacity: 0.9;
+}
+
+.overview-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 12px;
+}
+
+@media (min-width: 900px) {
+  .overview-grid {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+.overview-subtitle {
+  font-size: 13px;
+  font-weight: 700;
+  margin-bottom: 6px;
+  color: #ddd;
+}
+
+.overview-list {
+  margin: 0;
+  padding-left: 18px;
+  color: #ddd;
+  font-size: 13px;
+  line-height: 1.5;
+}
+
+.overview-list li {
+  margin: 4px 0;
+}
+
+/* Selected marker pulse */
+.marker-badge.selected {
+  animation: markerPulse 1.2s ease-in-out infinite;
+  transform-origin: center;
+}
+
+@keyframes markerPulse {
+  0%   { transform: scale(1);   box-shadow: 0 2px 5px rgba(0,0,0,0.45); }
+  50%  { transform: scale(1.12); box-shadow: 0 6px 14px rgba(0,0,0,0.55); }
+  100% { transform: scale(1);   box-shadow: 0 2px 5px rgba(0,0,0,0.45); }
+}
+
 
