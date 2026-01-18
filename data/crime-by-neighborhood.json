@@ -1,0 +1,1982 @@
+{
+  "timeframe": {
+    "reported_year": 2025
+  },
+  "neighbourhoods": {
+    "Chatelaine Village": {
+      "counts": {
+        "Assaults": 13,
+        "Break and Enter": 2,
+        "Criminal Harassment": 1,
+        "Indecent or Harassing Communications": 2,
+        "Mischief": 8,
+        "Theft $5000 and Under": 6,
+        "Theft of Motor Vehicle": 5,
+        "Theft Over $5000": 1,
+        "Uttering Threats": 6
+      },
+      "source_links": [
+        "https://experience.arcgis.com/experience/e5a8c6d852f242758355702fa041c012",
+        "https://services7.arcgis.com/2vhcNzw0NfUwAD3d/arcgis/rest/services/CrimeMap_YE/FeatureServer/16"
+      ]
+    },
+    "Rothwell Heights - Beacon Hill North": {
+      "counts": {
+        "Arson": 1,
+        "Assaults": 29,
+        "Break and Enter": 4,
+        "Criminal Harassment": 5,
+        "Indecent or Harassing Communications": 4,
+        "Mischief": 33,
+        "Theft $5000 and Under": 48,
+        "Theft of Motor Vehicle": 10,
+        "Theft Over $5000": 3,
+        "Uttering Threats": 3
+      },
+      "source_links": [
+        "https://experience.arcgis.com/experience/e5a8c6d852f242758355702fa041c012",
+        "https://services7.arcgis.com/2vhcNzw0NfUwAD3d/arcgis/rest/services/CrimeMap_YE/FeatureServer/16"
+      ]
+    },
+    "Wateridge Village": {
+      "counts": {
+        "Assaults": 28,
+        "Break and Enter": 9,
+        "Criminal Harassment": 1,
+        "Indecent or Harassing Communications": 2,
+        "Mischief": 13,
+        "Robbery": 1,
+        "Theft $5000 and Under": 52,
+        "Theft of Motor Vehicle": 2,
+        "Theft Over $5000": 2,
+        "Uttering Threats": 9
+      },
+      "source_links": [
+        "https://experience.arcgis.com/experience/e5a8c6d852f242758355702fa041c012",
+        "https://services7.arcgis.com/2vhcNzw0NfUwAD3d/arcgis/rest/services/CrimeMap_YE/FeatureServer/16"
+      ]
+    },
+    "West Centretown": {
+      "counts": {
+        "Arson": 9,
+        "Assaults": 107,
+        "Break and Enter": 114,
+        "Criminal Harassment": 3,
+        "Homicide": 1,
+        "Indecent or Harassing Communications": 8,
+        "Mischief": 110,
+        "Robbery": 13,
+        "Theft $5000 and Under": 299,
+        "Theft of Motor Vehicle": 22,
+        "Theft Over $5000": 9,
+        "Uttering Threats": 37
+      },
+      "source_links": [
+        "https://experience.arcgis.com/experience/e5a8c6d852f242758355702fa041c012",
+        "https://services7.arcgis.com/2vhcNzw0NfUwAD3d/arcgis/rest/services/CrimeMap_YE/FeatureServer/16"
+      ]
+    },
+    "Hintonburg - Mechanicsville": {
+      "counts": {
+        "Assaults": 78,
+        "Attempted Murder": 1,
+        "Break and Enter": 96,
+        "Criminal Harassment": 4,
+        "Indecent or Harassing Communications": 8,
+        "Mischief": 54,
+        "Robbery": 6,
+        "Theft $5000 and Under": 390,
+        "Theft of Motor Vehicle": 10,
+        "Theft Over $5000": 6,
+        "Uttering Threats": 12
+      },
+      "source_links": [
+        "https://experience.arcgis.com/experience/e5a8c6d852f242758355702fa041c012",
+        "https://services7.arcgis.com/2vhcNzw0NfUwAD3d/arcgis/rest/services/CrimeMap_YE/FeatureServer/16"
+      ]
+    },
+    "Orléans Industrial": {
+      "counts": {
+        "Arson": 1,
+        "Assaults": 2,
+        "Break and Enter": 5,
+        "Indecent or Harassing Communications": 1,
+        "Mischief": 1,
+        "Theft $5000 and Under": 12,
+        "Theft of Motor Vehicle": 4,
+        "Theft Over $5000": 2
+      },
+      "source_links": [
+        "https://experience.arcgis.com/experience/e5a8c6d852f242758355702fa041c012",
+        "https://services7.arcgis.com/2vhcNzw0NfUwAD3d/arcgis/rest/services/CrimeMap_YE/FeatureServer/16"
+      ]
+    },
+    "Manotick": {
+      "counts": {
+        "Arson": 1,
+        "Assaults": 34,
+        "Break and Enter": 13,
+        "Criminal Harassment": 1,
+        "Indecent or Harassing Communications": 1,
+        "Mischief": 30,
+        "Robbery": 3,
+        "Theft $5000 and Under": 66,
+        "Theft of Motor Vehicle": 26,
+        "Theft Over $5000": 8,
+        "Uttering Threats": 18
+      },
+      "source_links": [
+        "https://experience.arcgis.com/experience/e5a8c6d852f242758355702fa041c012",
+        "https://services7.arcgis.com/2vhcNzw0NfUwAD3d/arcgis/rest/services/CrimeMap_YE/FeatureServer/16"
+      ]
+    },
+    "Edwards - Carlsbad Springs": {
+      "counts": {
+        "Arson": 7,
+        "Assaults": 19,
+        "Break and Enter": 14,
+        "Criminal Harassment": 2,
+        "Indecent or Harassing Communications": 5,
+        "Mischief": 7,
+        "Robbery": 2,
+        "Theft $5000 and Under": 18,
+        "Theft of Motor Vehicle": 22,
+        "Theft Over $5000": 6,
+        "Uttering Threats": 7
+      },
+      "source_links": [
+        "https://experience.arcgis.com/experience/e5a8c6d852f242758355702fa041c012",
+        "https://services7.arcgis.com/2vhcNzw0NfUwAD3d/arcgis/rest/services/CrimeMap_YE/FeatureServer/16"
+      ]
+    },
+    "Lindenlea - New Edinburgh": {
+      "counts": {
+        "Assaults": 14,
+        "Break and Enter": 20,
+        "Criminal Harassment": 3,
+        "Indecent or Harassing Communications": 1,
+        "Mischief": 17,
+        "Robbery": 1,
+        "Theft $5000 and Under": 234,
+        "Theft of Motor Vehicle": 5,
+        "Theft Over $5000": 1,
+        "Uttering Threats": 3
+      },
+      "source_links": [
+        "https://experience.arcgis.com/experience/e5a8c6d852f242758355702fa041c012",
+        "https://services7.arcgis.com/2vhcNzw0NfUwAD3d/arcgis/rest/services/CrimeMap_YE/FeatureServer/16"
+      ]
+    },
+    "Portobello South": {
+      "counts": {
+        "Arson": 1,
+        "Assaults": 57,
+        "Break and Enter": 14,
+        "Criminal Harassment": 5,
+        "Indecent or Harassing Communications": 10,
+        "Mischief": 47,
+        "Theft $5000 and Under": 363,
+        "Theft of Motor Vehicle": 39,
+        "Theft Over $5000": 4,
+        "Uttering Threats": 23
+      },
+      "source_links": [
+        "https://experience.arcgis.com/experience/e5a8c6d852f242758355702fa041c012",
+        "https://services7.arcgis.com/2vhcNzw0NfUwAD3d/arcgis/rest/services/CrimeMap_YE/FeatureServer/16"
+      ]
+    },
+    "Greely": {
+      "counts": {
+        "Arson": 1,
+        "Assaults": 14,
+        "Break and Enter": 22,
+        "Criminal Harassment": 1,
+        "Indecent or Harassing Communications": 2,
+        "Mischief": 22,
+        "Robbery": 1,
+        "Theft $5000 and Under": 48,
+        "Theft of Motor Vehicle": 20,
+        "Theft Over $5000": 4,
+        "Uttering Threats": 9
+      },
+      "source_links": [
+        "https://experience.arcgis.com/experience/e5a8c6d852f242758355702fa041c012",
+        "https://services7.arcgis.com/2vhcNzw0NfUwAD3d/arcgis/rest/services/CrimeMap_YE/FeatureServer/16"
+      ]
+    },
+    "Kinburn": {
+      "counts": {
+        "Assaults": 2,
+        "Break and Enter": 2,
+        "Theft $5000 and Under": 1,
+        "Theft Over $5000": 1
+      },
+      "source_links": [
+        "https://experience.arcgis.com/experience/e5a8c6d852f242758355702fa041c012",
+        "https://services7.arcgis.com/2vhcNzw0NfUwAD3d/arcgis/rest/services/CrimeMap_YE/FeatureServer/16"
+      ]
+    },
+    "Skyline - Fisher Heights": {
+      "counts": {
+        "Arson": 1,
+        "Assaults": 25,
+        "Break and Enter": 13,
+        "Criminal Harassment": 1,
+        "Mischief": 12,
+        "Robbery": 9,
+        "Theft $5000 and Under": 422,
+        "Theft of Motor Vehicle": 15,
+        "Theft Over $5000": 5,
+        "Uttering Threats": 6
+      },
+      "source_links": [
+        "https://experience.arcgis.com/experience/e5a8c6d852f242758355702fa041c012",
+        "https://services7.arcgis.com/2vhcNzw0NfUwAD3d/arcgis/rest/services/CrimeMap_YE/FeatureServer/16"
+      ]
+    },
+    "Osgoode - Vernon": {
+      "counts": {
+        "Arson": 1,
+        "Assaults": 7,
+        "Break and Enter": 4,
+        "Indecent or Harassing Communications": 4,
+        "Mischief": 9,
+        "Robbery": 1,
+        "Theft $5000 and Under": 6,
+        "Theft of Motor Vehicle": 9,
+        "Theft Over $5000": 1,
+        "Uttering Threats": 5
+      },
+      "source_links": [
+        "https://experience.arcgis.com/experience/e5a8c6d852f242758355702fa041c012",
+        "https://services7.arcgis.com/2vhcNzw0NfUwAD3d/arcgis/rest/services/CrimeMap_YE/FeatureServer/16"
+      ]
+    },
+    "Richmond": {
+      "counts": {
+        "Arson": 4,
+        "Assaults": 21,
+        "Break and Enter": 18,
+        "Criminal Harassment": 3,
+        "Indecent or Harassing Communications": 9,
+        "Mischief": 20,
+        "Robbery": 1,
+        "Theft $5000 and Under": 61,
+        "Theft of Motor Vehicle": 27,
+        "Theft Over $5000": 10,
+        "Uttering Threats": 11
+      },
+      "source_links": [
+        "https://experience.arcgis.com/experience/e5a8c6d852f242758355702fa041c012",
+        "https://services7.arcgis.com/2vhcNzw0NfUwAD3d/arcgis/rest/services/CrimeMap_YE/FeatureServer/16"
+      ]
+    },
+    "Whitehaven - Queensway Terrace North": {
+      "counts": {
+        "Arson": 3,
+        "Assaults": 82,
+        "Break and Enter": 31,
+        "Criminal Harassment": 5,
+        "Homicide": 1,
+        "Indecent or Harassing Communications": 3,
+        "Mischief": 56,
+        "Robbery": 4,
+        "Theft $5000 and Under": 97,
+        "Theft of Motor Vehicle": 16,
+        "Theft Over $5000": 3,
+        "Uttering Threats": 25
+      },
+      "source_links": [
+        "https://experience.arcgis.com/experience/e5a8c6d852f242758355702fa041c012",
+        "https://services7.arcgis.com/2vhcNzw0NfUwAD3d/arcgis/rest/services/CrimeMap_YE/FeatureServer/16"
+      ]
+    },
+    "Qualicum - Redwood Park": {
+      "counts": {
+        "Assaults": 29,
+        "Break and Enter": 6,
+        "Criminal Harassment": 1,
+        "Mischief": 8,
+        "Robbery": 1,
+        "Theft $5000 and Under": 17,
+        "Theft of Motor Vehicle": 5,
+        "Theft Over $5000": 2,
+        "Uttering Threats": 8
+      },
+      "source_links": [
+        "https://experience.arcgis.com/experience/e5a8c6d852f242758355702fa041c012",
+        "https://services7.arcgis.com/2vhcNzw0NfUwAD3d/arcgis/rest/services/CrimeMap_YE/FeatureServer/16"
+      ]
+    },
+    "Bells Corners West": {
+      "counts": {
+        "Arson": 3,
+        "Assaults": 15,
+        "Break and Enter": 6,
+        "Criminal Harassment": 2,
+        "Mischief": 23,
+        "Robbery": 3,
+        "Theft $5000 and Under": 34,
+        "Theft of Motor Vehicle": 7,
+        "Theft Over $5000": 1,
+        "Uttering Threats": 12
+      },
+      "source_links": [
+        "https://experience.arcgis.com/experience/e5a8c6d852f242758355702fa041c012",
+        "https://services7.arcgis.com/2vhcNzw0NfUwAD3d/arcgis/rest/services/CrimeMap_YE/FeatureServer/16"
+      ]
+    },
+    "Queenswood Heights": {
+      "counts": {
+        "Arson": 1,
+        "Assaults": 20,
+        "Break and Enter": 5,
+        "Criminal Harassment": 1,
+        "Indecent or Harassing Communications": 7,
+        "Mischief": 27,
+        "Robbery": 4,
+        "Theft $5000 and Under": 15,
+        "Theft of Motor Vehicle": 6,
+        "Theft Over $5000": 3,
+        "Uttering Threats": 4
+      },
+      "source_links": [
+        "https://experience.arcgis.com/experience/e5a8c6d852f242758355702fa041c012",
+        "https://services7.arcgis.com/2vhcNzw0NfUwAD3d/arcgis/rest/services/CrimeMap_YE/FeatureServer/16"
+      ]
+    },
+    "Byward Market": {
+      "counts": {
+        "Arson": 9,
+        "Assaults": 303,
+        "Attempted Murder": 2,
+        "Break and Enter": 66,
+        "Criminal Harassment": 6,
+        "Homicide": 1,
+        "Indecent or Harassing Communications": 6,
+        "Mischief": 121,
+        "Robbery": 42,
+        "Theft $5000 and Under": 422,
+        "Theft of Motor Vehicle": 28,
+        "Theft Over $5000": 14,
+        "Uttering Threats": 36
+      },
+      "source_links": [
+        "https://experience.arcgis.com/experience/e5a8c6d852f242758355702fa041c012",
+        "https://services7.arcgis.com/2vhcNzw0NfUwAD3d/arcgis/rest/services/CrimeMap_YE/FeatureServer/16"
+      ]
+    },
+    "Westboro": {
+      "counts": {
+        "Assaults": 41,
+        "Attempted Murder": 1,
+        "Break and Enter": 58,
+        "Criminal Harassment": 2,
+        "Indecent or Harassing Communications": 10,
+        "Mischief": 50,
+        "Robbery": 8,
+        "Theft $5000 and Under": 962,
+        "Theft of Motor Vehicle": 13,
+        "Theft Over $5000": 8,
+        "Uttering Threats": 13
+      },
+      "source_links": [
+        "https://experience.arcgis.com/experience/e5a8c6d852f242758355702fa041c012",
+        "https://services7.arcgis.com/2vhcNzw0NfUwAD3d/arcgis/rest/services/CrimeMap_YE/FeatureServer/16"
+      ]
+    },
+    "Bayshore - Belltown": {
+      "counts": {
+        "Arson": 1,
+        "Assaults": 45,
+        "Break and Enter": 14,
+        "Criminal Harassment": 4,
+        "Indecent or Harassing Communications": 5,
+        "Mischief": 29,
+        "Robbery": 13,
+        "Theft $5000 and Under": 393,
+        "Theft of Motor Vehicle": 23,
+        "Theft Over $5000": 9,
+        "Uttering Threats": 18
+      },
+      "source_links": [
+        "https://experience.arcgis.com/experience/e5a8c6d852f242758355702fa041c012",
+        "https://services7.arcgis.com/2vhcNzw0NfUwAD3d/arcgis/rest/services/CrimeMap_YE/FeatureServer/16"
+      ]
+    },
+    "Vanier South": {
+      "counts": {
+        "Arson": 3,
+        "Assaults": 77,
+        "Break and Enter": 64,
+        "Indecent or Harassing Communications": 7,
+        "Mischief": 35,
+        "Robbery": 9,
+        "Theft $5000 and Under": 325,
+        "Theft of Motor Vehicle": 7,
+        "Theft Over $5000": 7,
+        "Uttering Threats": 17
+      },
+      "source_links": [
+        "https://experience.arcgis.com/experience/e5a8c6d852f242758355702fa041c012",
+        "https://services7.arcgis.com/2vhcNzw0NfUwAD3d/arcgis/rest/services/CrimeMap_YE/FeatureServer/16"
+      ]
+    },
+    "Dunrobin": {
+      "counts": {
+        "Arson": 1,
+        "Assaults": 5,
+        "Break and Enter": 5,
+        "Criminal Harassment": 1,
+        "Indecent or Harassing Communications": 3,
+        "Mischief": 8,
+        "Robbery": 2,
+        "Theft $5000 and Under": 4,
+        "Theft of Motor Vehicle": 5,
+        "Theft Over $5000": 3,
+        "Uttering Threats": 5
+      },
+      "source_links": [
+        "https://experience.arcgis.com/experience/e5a8c6d852f242758355702fa041c012",
+        "https://services7.arcgis.com/2vhcNzw0NfUwAD3d/arcgis/rest/services/CrimeMap_YE/FeatureServer/16"
+      ]
+    },
+    "Iris - Queensway Terrance South": {
+      "counts": {
+        "Arson": 1,
+        "Assaults": 29,
+        "Break and Enter": 16,
+        "Criminal Harassment": 1,
+        "Homicide": 1,
+        "Indecent or Harassing Communications": 3,
+        "Mischief": 17,
+        "Robbery": 2,
+        "Theft $5000 and Under": 80,
+        "Theft of Motor Vehicle": 8,
+        "Theft Over $5000": 5,
+        "Uttering Threats": 6
+      },
+      "source_links": [
+        "https://experience.arcgis.com/experience/e5a8c6d852f242758355702fa041c012",
+        "https://services7.arcgis.com/2vhcNzw0NfUwAD3d/arcgis/rest/services/CrimeMap_YE/FeatureServer/16"
+      ]
+    },
+    "Billings Bridge - Alta Vista": {
+      "counts": {
+        "Arson": 6,
+        "Assaults": 77,
+        "Break and Enter": 51,
+        "Criminal Harassment": 4,
+        "Indecent or Harassing Communications": 9,
+        "Mischief": 49,
+        "Robbery": 19,
+        "Theft $5000 and Under": 437,
+        "Theft of Motor Vehicle": 21,
+        "Theft Over $5000": 15,
+        "Uttering Threats": 17
+      },
+      "source_links": [
+        "https://experience.arcgis.com/experience/e5a8c6d852f242758355702fa041c012",
+        "https://services7.arcgis.com/2vhcNzw0NfUwAD3d/arcgis/rest/services/CrimeMap_YE/FeatureServer/16"
+      ]
+    },
+    "Orléans Village - Chateauneuf": {
+      "counts": {
+        "Assaults": 20,
+        "Break and Enter": 6,
+        "Indecent or Harassing Communications": 1,
+        "Mischief": 19,
+        "Robbery": 2,
+        "Theft $5000 and Under": 25,
+        "Theft of Motor Vehicle": 10,
+        "Theft Over $5000": 1,
+        "Uttering Threats": 9
+      },
+      "source_links": [
+        "https://experience.arcgis.com/experience/e5a8c6d852f242758355702fa041c012",
+        "https://services7.arcgis.com/2vhcNzw0NfUwAD3d/arcgis/rest/services/CrimeMap_YE/FeatureServer/16"
+      ]
+    },
+    "Bells Corners East": {
+      "counts": {
+        "Arson": 1,
+        "Assaults": 23,
+        "Break and Enter": 11,
+        "Criminal Harassment": 2,
+        "Indecent or Harassing Communications": 2,
+        "Mischief": 25,
+        "Robbery": 3,
+        "Theft $5000 and Under": 116,
+        "Theft of Motor Vehicle": 12,
+        "Theft Over $5000": 4,
+        "Uttering Threats": 10
+      },
+      "source_links": [
+        "https://experience.arcgis.com/experience/e5a8c6d852f242758355702fa041c012",
+        "https://services7.arcgis.com/2vhcNzw0NfUwAD3d/arcgis/rest/services/CrimeMap_YE/FeatureServer/16"
+      ]
+    },
+    "Riverside South - Leitrim": {
+      "counts": {
+        "Assaults": 26,
+        "Break and Enter": 10,
+        "Criminal Harassment": 2,
+        "Indecent or Harassing Communications": 6,
+        "Mischief": 29,
+        "Robbery": 7,
+        "Theft $5000 and Under": 59,
+        "Theft of Motor Vehicle": 26,
+        "Theft Over $5000": 6,
+        "Uttering Threats": 15
+      },
+      "source_links": [
+        "https://experience.arcgis.com/experience/e5a8c6d852f242758355702fa041c012",
+        "https://services7.arcgis.com/2vhcNzw0NfUwAD3d/arcgis/rest/services/CrimeMap_YE/FeatureServer/16"
+      ]
+    },
+    "Stonebridge - Half Moon Bay - Heart's Desire": {
+      "counts": {
+        "Assaults": 66,
+        "Break and Enter": 19,
+        "Criminal Harassment": 4,
+        "Homicide": 1,
+        "Indecent or Harassing Communications": 9,
+        "Mischief": 50,
+        "Robbery": 4,
+        "Theft $5000 and Under": 163,
+        "Theft of Motor Vehicle": 28,
+        "Theft Over $5000": 12,
+        "Uttering Threats": 31
+      },
+      "source_links": [
+        "https://experience.arcgis.com/experience/e5a8c6d852f242758355702fa041c012",
+        "https://services7.arcgis.com/2vhcNzw0NfUwAD3d/arcgis/rest/services/CrimeMap_YE/FeatureServer/16"
+      ]
+    },
+    "Cardinal Creek": {
+      "counts": {
+        "Arson": 1,
+        "Assaults": 25,
+        "Break and Enter": 9,
+        "Indecent or Harassing Communications": 1,
+        "Mischief": 15,
+        "Theft $5000 and Under": 23,
+        "Theft of Motor Vehicle": 12,
+        "Theft Over $5000": 2,
+        "Uttering Threats": 9
+      },
+      "source_links": [
+        "https://experience.arcgis.com/experience/e5a8c6d852f242758355702fa041c012",
+        "https://services7.arcgis.com/2vhcNzw0NfUwAD3d/arcgis/rest/services/CrimeMap_YE/FeatureServer/16"
+      ]
+    },
+    "Cumberland": {
+      "counts": {
+        "Assaults": 12,
+        "Break and Enter": 2,
+        "Mischief": 7,
+        "Theft $5000 and Under": 9,
+        "Theft of Motor Vehicle": 4,
+        "Uttering Threats": 3
+      },
+      "source_links": [
+        "https://experience.arcgis.com/experience/e5a8c6d852f242758355702fa041c012",
+        "https://services7.arcgis.com/2vhcNzw0NfUwAD3d/arcgis/rest/services/CrimeMap_YE/FeatureServer/16"
+      ]
+    },
+    "Woodvale - Craig Henry - Manordale - Estates of Arlington Woods": {
+      "counts": {
+        "Arson": 1,
+        "Assaults": 30,
+        "Break and Enter": 7,
+        "Criminal Harassment": 1,
+        "Homicide": 1,
+        "Indecent or Harassing Communications": 9,
+        "Mischief": 20,
+        "Robbery": 2,
+        "Theft $5000 and Under": 30,
+        "Theft of Motor Vehicle": 10,
+        "Uttering Threats": 8
+      },
+      "source_links": [
+        "https://experience.arcgis.com/experience/e5a8c6d852f242758355702fa041c012",
+        "https://services7.arcgis.com/2vhcNzw0NfUwAD3d/arcgis/rest/services/CrimeMap_YE/FeatureServer/16"
+      ]
+    },
+    "Vanier North": {
+      "counts": {
+        "Arson": 3,
+        "Assaults": 106,
+        "Break and Enter": 79,
+        "Criminal Harassment": 4,
+        "Homicide": 2,
+        "Indecent or Harassing Communications": 8,
+        "Mischief": 62,
+        "Robbery": 9,
+        "Theft $5000 and Under": 207,
+        "Theft of Motor Vehicle": 10,
+        "Theft Over $5000": 11,
+        "Uttering Threats": 26
+      },
+      "source_links": [
+        "https://experience.arcgis.com/experience/e5a8c6d852f242758355702fa041c012",
+        "https://services7.arcgis.com/2vhcNzw0NfUwAD3d/arcgis/rest/services/CrimeMap_YE/FeatureServer/16"
+      ]
+    },
+    "Manor Park": {
+      "counts": {
+        "Assaults": 33,
+        "Break and Enter": 9,
+        "Criminal Harassment": 1,
+        "Homicide": 1,
+        "Indecent or Harassing Communications": 2,
+        "Mischief": 25,
+        "Robbery": 2,
+        "Theft $5000 and Under": 138,
+        "Theft of Motor Vehicle": 4,
+        "Theft Over $5000": 5,
+        "Uttering Threats": 7
+      },
+      "source_links": [
+        "https://experience.arcgis.com/experience/e5a8c6d852f242758355702fa041c012",
+        "https://services7.arcgis.com/2vhcNzw0NfUwAD3d/arcgis/rest/services/CrimeMap_YE/FeatureServer/16"
+      ]
+    },
+    "Parkwood Hills - Stewart Farm": {
+      "counts": {
+        "Assaults": 25,
+        "Break and Enter": 16,
+        "Criminal Harassment": 2,
+        "Indecent or Harassing Communications": 6,
+        "Mischief": 32,
+        "Theft $5000 and Under": 41,
+        "Theft of Motor Vehicle": 12,
+        "Theft Over $5000": 1,
+        "Uttering Threats": 3
+      },
+      "source_links": [
+        "https://experience.arcgis.com/experience/e5a8c6d852f242758355702fa041c012",
+        "https://services7.arcgis.com/2vhcNzw0NfUwAD3d/arcgis/rest/services/CrimeMap_YE/FeatureServer/16"
+      ]
+    },
+    "Hunt Club Upper -Blossom Park - Timbermill": {
+      "counts": {
+        "Assaults": 26,
+        "Break and Enter": 7,
+        "Criminal Harassment": 1,
+        "Indecent or Harassing Communications": 11,
+        "Mischief": 25,
+        "Robbery": 5,
+        "Theft $5000 and Under": 33,
+        "Theft of Motor Vehicle": 9,
+        "Theft Over $5000": 2,
+        "Uttering Threats": 9
+      },
+      "source_links": [
+        "https://experience.arcgis.com/experience/e5a8c6d852f242758355702fa041c012",
+        "https://services7.arcgis.com/2vhcNzw0NfUwAD3d/arcgis/rest/services/CrimeMap_YE/FeatureServer/16"
+      ]
+    },
+    "Rockcliffe Park": {
+      "counts": {
+        "Arson": 1,
+        "Assaults": 3,
+        "Break and Enter": 6,
+        "Mischief": 5,
+        "Theft $5000 and Under": 10,
+        "Theft of Motor Vehicle": 4
+      },
+      "source_links": [
+        "https://experience.arcgis.com/experience/e5a8c6d852f242758355702fa041c012",
+        "https://services7.arcgis.com/2vhcNzw0NfUwAD3d/arcgis/rest/services/CrimeMap_YE/FeatureServer/16"
+      ]
+    },
+    "Old Ottawa East": {
+      "counts": {
+        "Assaults": 18,
+        "Break and Enter": 31,
+        "Criminal Harassment": 3,
+        "Indecent or Harassing Communications": 1,
+        "Mischief": 23,
+        "Robbery": 1,
+        "Theft $5000 and Under": 74,
+        "Theft of Motor Vehicle": 4,
+        "Uttering Threats": 5
+      },
+      "source_links": [
+        "https://experience.arcgis.com/experience/e5a8c6d852f242758355702fa041c012",
+        "https://services7.arcgis.com/2vhcNzw0NfUwAD3d/arcgis/rest/services/CrimeMap_YE/FeatureServer/16"
+      ]
+    },
+    "Riverview": {
+      "counts": {
+        "Assaults": 42,
+        "Break and Enter": 18,
+        "Criminal Harassment": 3,
+        "Indecent or Harassing Communications": 3,
+        "Mischief": 15,
+        "Robbery": 1,
+        "Theft $5000 and Under": 61,
+        "Theft of Motor Vehicle": 15,
+        "Theft Over $5000": 3,
+        "Uttering Threats": 13
+      },
+      "source_links": [
+        "https://experience.arcgis.com/experience/e5a8c6d852f242758355702fa041c012",
+        "https://services7.arcgis.com/2vhcNzw0NfUwAD3d/arcgis/rest/services/CrimeMap_YE/FeatureServer/16"
+      ]
+    },
+    "Carlington": {
+      "counts": {
+        "Arson": 8,
+        "Assaults": 83,
+        "Break and Enter": 47,
+        "Criminal Harassment": 5,
+        "Indecent or Harassing Communications": 6,
+        "Mischief": 50,
+        "Robbery": 3,
+        "Theft $5000 and Under": 153,
+        "Theft of Motor Vehicle": 28,
+        "Theft Over $5000": 5,
+        "Uttering Threats": 30
+      },
+      "source_links": [
+        "https://experience.arcgis.com/experience/e5a8c6d852f242758355702fa041c012",
+        "https://services7.arcgis.com/2vhcNzw0NfUwAD3d/arcgis/rest/services/CrimeMap_YE/FeatureServer/16"
+      ]
+    },
+    "Munster - Ashton": {
+      "counts": {
+        "Assaults": 4,
+        "Break and Enter": 4,
+        "Indecent or Harassing Communications": 3,
+        "Mischief": 11,
+        "Robbery": 1,
+        "Theft $5000 and Under": 5,
+        "Theft of Motor Vehicle": 5,
+        "Theft Over $5000": 1,
+        "Uttering Threats": 4
+      },
+      "source_links": [
+        "https://experience.arcgis.com/experience/e5a8c6d852f242758355702fa041c012",
+        "https://services7.arcgis.com/2vhcNzw0NfUwAD3d/arcgis/rest/services/CrimeMap_YE/FeatureServer/16"
+      ]
+    },
+    "Lebreton Development": {
+      "counts": {
+        "Assaults": 9,
+        "Break and Enter": 8,
+        "Criminal Harassment": 1,
+        "Indecent or Harassing Communications": 1,
+        "Mischief": 6,
+        "Robbery": 5,
+        "Theft $5000 and Under": 18,
+        "Uttering Threats": 1
+      },
+      "source_links": [
+        "https://experience.arcgis.com/experience/e5a8c6d852f242758355702fa041c012",
+        "https://services7.arcgis.com/2vhcNzw0NfUwAD3d/arcgis/rest/services/CrimeMap_YE/FeatureServer/16"
+      ]
+    },
+    "Metcalfe": {
+      "counts": {
+        "Arson": 1,
+        "Assaults": 9,
+        "Break and Enter": 8,
+        "Criminal Harassment": 1,
+        "Indecent or Harassing Communications": 1,
+        "Mischief": 6,
+        "Theft $5000 and Under": 14,
+        "Theft of Motor Vehicle": 9,
+        "Theft Over $5000": 2,
+        "Uttering Threats": 2
+      },
+      "source_links": [
+        "https://experience.arcgis.com/experience/e5a8c6d852f242758355702fa041c012",
+        "https://services7.arcgis.com/2vhcNzw0NfUwAD3d/arcgis/rest/services/CrimeMap_YE/FeatureServer/16"
+      ]
+    },
+    "Findlay Creek": {
+      "counts": {
+        "Arson": 1,
+        "Assaults": 23,
+        "Break and Enter": 4,
+        "Criminal Harassment": 2,
+        "Indecent or Harassing Communications": 8,
+        "Mischief": 18,
+        "Robbery": 3,
+        "Theft $5000 and Under": 113,
+        "Theft of Motor Vehicle": 28,
+        "Theft Over $5000": 4,
+        "Uttering Threats": 15
+      },
+      "source_links": [
+        "https://experience.arcgis.com/experience/e5a8c6d852f242758355702fa041c012",
+        "https://services7.arcgis.com/2vhcNzw0NfUwAD3d/arcgis/rest/services/CrimeMap_YE/FeatureServer/16"
+      ]
+    },
+    "Carleton University": {
+      "counts": {
+        "Assaults": 10,
+        "Break and Enter": 3,
+        "Criminal Harassment": 3,
+        "Indecent or Harassing Communications": 5,
+        "Mischief": 47,
+        "Robbery": 1,
+        "Theft $5000 and Under": 91,
+        "Theft Over $5000": 2,
+        "Uttering Threats": 2
+      },
+      "source_links": [
+        "https://experience.arcgis.com/experience/e5a8c6d852f242758355702fa041c012",
+        "https://services7.arcgis.com/2vhcNzw0NfUwAD3d/arcgis/rest/services/CrimeMap_YE/FeatureServer/16"
+      ]
+    },
+    "Chapel Hill South": {
+      "counts": {
+        "Assaults": 39,
+        "Break and Enter": 9,
+        "Criminal Harassment": 7,
+        "Indecent or Harassing Communications": 8,
+        "Mischief": 26,
+        "Robbery": 6,
+        "Theft $5000 and Under": 173,
+        "Theft of Motor Vehicle": 34,
+        "Theft Over $5000": 9,
+        "Uttering Threats": 9
+      },
+      "source_links": [
+        "https://experience.arcgis.com/experience/e5a8c6d852f242758355702fa041c012",
+        "https://services7.arcgis.com/2vhcNzw0NfUwAD3d/arcgis/rest/services/CrimeMap_YE/FeatureServer/16"
+      ]
+    },
+    "Constance Bay": {
+      "counts": {
+        "Assaults": 8,
+        "Break and Enter": 1,
+        "Indecent or Harassing Communications": 2,
+        "Mischief": 9,
+        "Theft $5000 and Under": 4,
+        "Theft of Motor Vehicle": 3,
+        "Uttering Threats": 3
+      },
+      "source_links": [
+        "https://experience.arcgis.com/experience/e5a8c6d852f242758355702fa041c012",
+        "https://services7.arcgis.com/2vhcNzw0NfUwAD3d/arcgis/rest/services/CrimeMap_YE/FeatureServer/16"
+      ]
+    },
+    "Trend-Arlington": {
+      "counts": {
+        "Assaults": 5,
+        "Break and Enter": 2,
+        "Mischief": 4,
+        "Robbery": 1,
+        "Theft $5000 and Under": 4,
+        "Theft of Motor Vehicle": 4,
+        "Theft Over $5000": 1,
+        "Uttering Threats": 2
+      },
+      "source_links": [
+        "https://experience.arcgis.com/experience/e5a8c6d852f242758355702fa041c012",
+        "https://services7.arcgis.com/2vhcNzw0NfUwAD3d/arcgis/rest/services/CrimeMap_YE/FeatureServer/16"
+      ]
+    },
+    "Lowertown": {
+      "counts": {
+        "Arson": 3,
+        "Assaults": 103,
+        "Break and Enter": 52,
+        "Criminal Harassment": 1,
+        "Homicide": 1,
+        "Indecent or Harassing Communications": 7,
+        "Mischief": 58,
+        "Robbery": 14,
+        "Theft $5000 and Under": 1070,
+        "Theft of Motor Vehicle": 12,
+        "Theft Over $5000": 13,
+        "Uttering Threats": 29
+      },
+      "source_links": [
+        "https://experience.arcgis.com/experience/e5a8c6d852f242758355702fa041c012",
+        "https://services7.arcgis.com/2vhcNzw0NfUwAD3d/arcgis/rest/services/CrimeMap_YE/FeatureServer/16"
+      ]
+    },
+    "Centretown": {
+      "counts": {
+        "Arson": 5,
+        "Assaults": 345,
+        "Attempted Murder": 1,
+        "Break and Enter": 361,
+        "Criminal Harassment": 37,
+        "Homicide": 1,
+        "Indecent or Harassing Communications": 82,
+        "Mischief": 298,
+        "Robbery": 42,
+        "Theft $5000 and Under": 2184,
+        "Theft of Motor Vehicle": 40,
+        "Theft Over $5000": 35,
+        "Uttering Threats": 123
+      },
+      "source_links": [
+        "https://experience.arcgis.com/experience/e5a8c6d852f242758355702fa041c012",
+        "https://services7.arcgis.com/2vhcNzw0NfUwAD3d/arcgis/rest/services/CrimeMap_YE/FeatureServer/16"
+      ]
+    },
+    "Hawthorne Meadows - Sheffield Glen": {
+      "counts": {
+        "Arson": 3,
+        "Assaults": 44,
+        "Break and Enter": 15,
+        "Criminal Harassment": 2,
+        "Indecent or Harassing Communications": 2,
+        "Mischief": 26,
+        "Robbery": 2,
+        "Theft $5000 and Under": 101,
+        "Theft of Motor Vehicle": 16,
+        "Theft Over $5000": 5,
+        "Uttering Threats": 12
+      },
+      "source_links": [
+        "https://experience.arcgis.com/experience/e5a8c6d852f242758355702fa041c012",
+        "https://services7.arcgis.com/2vhcNzw0NfUwAD3d/arcgis/rest/services/CrimeMap_YE/FeatureServer/16"
+      ]
+    },
+    "North Gower - Kars": {
+      "counts": {
+        "Assaults": 9,
+        "Break and Enter": 6,
+        "Criminal Harassment": 1,
+        "Indecent or Harassing Communications": 5,
+        "Mischief": 22,
+        "Theft $5000 and Under": 26,
+        "Theft of Motor Vehicle": 8,
+        "Uttering Threats": 4
+      },
+      "source_links": [
+        "https://experience.arcgis.com/experience/e5a8c6d852f242758355702fa041c012",
+        "https://services7.arcgis.com/2vhcNzw0NfUwAD3d/arcgis/rest/services/CrimeMap_YE/FeatureServer/16"
+      ]
+    },
+    "Elmvale - Canterbury": {
+      "counts": {
+        "Assaults": 31,
+        "Break and Enter": 13,
+        "Criminal Harassment": 1,
+        "Homicide": 1,
+        "Indecent or Harassing Communications": 5,
+        "Mischief": 30,
+        "Robbery": 10,
+        "Theft $5000 and Under": 203,
+        "Theft of Motor Vehicle": 17,
+        "Theft Over $5000": 7,
+        "Uttering Threats": 15
+      },
+      "source_links": [
+        "https://experience.arcgis.com/experience/e5a8c6d852f242758355702fa041c012",
+        "https://services7.arcgis.com/2vhcNzw0NfUwAD3d/arcgis/rest/services/CrimeMap_YE/FeatureServer/16"
+      ]
+    },
+    "Hunt Club - Ottawa Airport": {
+      "counts": {
+        "Arson": 1,
+        "Assaults": 20,
+        "Mischief": 21,
+        "Robbery": 4,
+        "Theft $5000 and Under": 70,
+        "Theft of Motor Vehicle": 24,
+        "Theft Over $5000": 3,
+        "Uttering Threats": 3
+      },
+      "source_links": [
+        "https://experience.arcgis.com/experience/e5a8c6d852f242758355702fa041c012",
+        "https://services7.arcgis.com/2vhcNzw0NfUwAD3d/arcgis/rest/services/CrimeMap_YE/FeatureServer/16"
+      ]
+    },
+    "Navan - Sarsfield": {
+      "counts": {
+        "Arson": 1,
+        "Assaults": 27,
+        "Break and Enter": 7,
+        "Indecent or Harassing Communications": 5,
+        "Mischief": 7,
+        "Robbery": 1,
+        "Theft $5000 and Under": 9,
+        "Theft of Motor Vehicle": 11,
+        "Theft Over $5000": 3,
+        "Uttering Threats": 6
+      },
+      "source_links": [
+        "https://experience.arcgis.com/experience/e5a8c6d852f242758355702fa041c012",
+        "https://services7.arcgis.com/2vhcNzw0NfUwAD3d/arcgis/rest/services/CrimeMap_YE/FeatureServer/16"
+      ]
+    },
+    "Chapel Hill North": {
+      "counts": {
+        "Assaults": 28,
+        "Break and Enter": 10,
+        "Criminal Harassment": 2,
+        "Indecent or Harassing Communications": 1,
+        "Mischief": 11,
+        "Robbery": 2,
+        "Theft $5000 and Under": 13,
+        "Theft of Motor Vehicle": 9,
+        "Uttering Threats": 2
+      },
+      "source_links": [
+        "https://experience.arcgis.com/experience/e5a8c6d852f242758355702fa041c012",
+        "https://services7.arcgis.com/2vhcNzw0NfUwAD3d/arcgis/rest/services/CrimeMap_YE/FeatureServer/16"
+      ]
+    },
+    "Kanata Lakes - Arcardia": {
+      "counts": {
+        "Assaults": 54,
+        "Break and Enter": 17,
+        "Indecent or Harassing Communications": 5,
+        "Mischief": 44,
+        "Robbery": 6,
+        "Theft $5000 and Under": 300,
+        "Theft of Motor Vehicle": 39,
+        "Theft Over $5000": 8,
+        "Uttering Threats": 9
+      },
+      "source_links": [
+        "https://experience.arcgis.com/experience/e5a8c6d852f242758355702fa041c012",
+        "https://services7.arcgis.com/2vhcNzw0NfUwAD3d/arcgis/rest/services/CrimeMap_YE/FeatureServer/16"
+      ]
+    },
+    "Convent Glen - Orléans Woods": {
+      "counts": {
+        "Arson": 4,
+        "Assaults": 51,
+        "Break and Enter": 14,
+        "Criminal Harassment": 1,
+        "Indecent or Harassing Communications": 7,
+        "Mischief": 32,
+        "Robbery": 14,
+        "Theft $5000 and Under": 84,
+        "Theft of Motor Vehicle": 16,
+        "Theft Over $5000": 5,
+        "Uttering Threats": 14
+      },
+      "source_links": [
+        "https://experience.arcgis.com/experience/e5a8c6d852f242758355702fa041c012",
+        "https://services7.arcgis.com/2vhcNzw0NfUwAD3d/arcgis/rest/services/CrimeMap_YE/FeatureServer/16"
+      ]
+    },
+    "Overbrook - McArthur": {
+      "counts": {
+        "Arson": 8,
+        "Assaults": 183,
+        "Break and Enter": 101,
+        "Criminal Harassment": 12,
+        "Homicide": 1,
+        "Indecent or Harassing Communications": 10,
+        "Mischief": 151,
+        "Robbery": 25,
+        "Theft $5000 and Under": 1241,
+        "Theft of Motor Vehicle": 65,
+        "Theft Over $5000": 17,
+        "Uttering Threats": 57
+      },
+      "source_links": [
+        "https://experience.arcgis.com/experience/e5a8c6d852f242758355702fa041c012",
+        "https://services7.arcgis.com/2vhcNzw0NfUwAD3d/arcgis/rest/services/CrimeMap_YE/FeatureServer/16"
+      ]
+    },
+    "Old Barrhaven East": {
+      "counts": {
+        "Arson": 1,
+        "Assaults": 54,
+        "Break and Enter": 15,
+        "Criminal Harassment": 3,
+        "Homicide": 2,
+        "Indecent or Harassing Communications": 6,
+        "Mischief": 46,
+        "Robbery": 4,
+        "Theft $5000 and Under": 86,
+        "Theft of Motor Vehicle": 7,
+        "Uttering Threats": 24
+      },
+      "source_links": [
+        "https://experience.arcgis.com/experience/e5a8c6d852f242758355702fa041c012",
+        "https://services7.arcgis.com/2vhcNzw0NfUwAD3d/arcgis/rest/services/CrimeMap_YE/FeatureServer/16"
+      ]
+    },
+    "Sandy Hill": {
+      "counts": {
+        "Arson": 9,
+        "Assaults": 273,
+        "Attempted Murder": 1,
+        "Break and Enter": 108,
+        "Criminal Harassment": 4,
+        "Indecent or Harassing Communications": 21,
+        "Mischief": 199,
+        "Robbery": 44,
+        "Theft $5000 and Under": 2270,
+        "Theft of Motor Vehicle": 34,
+        "Theft Over $5000": 29,
+        "Uttering Threats": 40
+      },
+      "source_links": [
+        "https://experience.arcgis.com/experience/e5a8c6d852f242758355702fa041c012",
+        "https://services7.arcgis.com/2vhcNzw0NfUwAD3d/arcgis/rest/services/CrimeMap_YE/FeatureServer/16"
+      ]
+    },
+    "Carleton Heights - Rideauview": {
+      "counts": {
+        "Assaults": 45,
+        "Break and Enter": 15,
+        "Criminal Harassment": 2,
+        "Indecent or Harassing Communications": 4,
+        "Mischief": 21,
+        "Robbery": 6,
+        "Theft $5000 and Under": 49,
+        "Theft of Motor Vehicle": 9,
+        "Theft Over $5000": 1,
+        "Uttering Threats": 9
+      },
+      "source_links": [
+        "https://experience.arcgis.com/experience/e5a8c6d852f242758355702fa041c012",
+        "https://services7.arcgis.com/2vhcNzw0NfUwAD3d/arcgis/rest/services/CrimeMap_YE/FeatureServer/16"
+      ]
+    },
+    "Britannia": {
+      "counts": {
+        "Assaults": 30,
+        "Break and Enter": 30,
+        "Criminal Harassment": 3,
+        "Indecent or Harassing Communications": 6,
+        "Mischief": 32,
+        "Robbery": 7,
+        "Theft $5000 and Under": 186,
+        "Theft of Motor Vehicle": 10,
+        "Theft Over $5000": 1,
+        "Uttering Threats": 15
+      },
+      "source_links": [
+        "https://experience.arcgis.com/experience/e5a8c6d852f242758355702fa041c012",
+        "https://services7.arcgis.com/2vhcNzw0NfUwAD3d/arcgis/rest/services/CrimeMap_YE/FeatureServer/16"
+      ]
+    },
+    "Pineview": {
+      "counts": {
+        "Assaults": 13,
+        "Break and Enter": 9,
+        "Criminal Harassment": 2,
+        "Indecent or Harassing Communications": 4,
+        "Mischief": 19,
+        "Robbery": 5,
+        "Theft $5000 and Under": 18,
+        "Theft of Motor Vehicle": 12,
+        "Theft Over $5000": 1,
+        "Uttering Threats": 6
+      },
+      "source_links": [
+        "https://experience.arcgis.com/experience/e5a8c6d852f242758355702fa041c012",
+        "https://services7.arcgis.com/2vhcNzw0NfUwAD3d/arcgis/rest/services/CrimeMap_YE/FeatureServer/16"
+      ]
+    },
+    "Island Park - Wellington Village": {
+      "counts": {
+        "Arson": 1,
+        "Assaults": 17,
+        "Break and Enter": 21,
+        "Criminal Harassment": 2,
+        "Indecent or Harassing Communications": 1,
+        "Mischief": 20,
+        "Robbery": 6,
+        "Theft $5000 and Under": 63,
+        "Theft of Motor Vehicle": 8,
+        "Theft Over $5000": 2,
+        "Uttering Threats": 5
+      },
+      "source_links": [
+        "https://experience.arcgis.com/experience/e5a8c6d852f242758355702fa041c012",
+        "https://services7.arcgis.com/2vhcNzw0NfUwAD3d/arcgis/rest/services/CrimeMap_YE/FeatureServer/16"
+      ]
+    },
+    "Corkery": {
+      "counts": {
+        "Assaults": 9,
+        "Break and Enter": 2,
+        "Indecent or Harassing Communications": 3,
+        "Mischief": 10,
+        "Theft $5000 and Under": 3,
+        "Theft of Motor Vehicle": 3,
+        "Theft Over $5000": 1,
+        "Uttering Threats": 2
+      },
+      "source_links": [
+        "https://experience.arcgis.com/experience/e5a8c6d852f242758355702fa041c012",
+        "https://services7.arcgis.com/2vhcNzw0NfUwAD3d/arcgis/rest/services/CrimeMap_YE/FeatureServer/16"
+      ]
+    },
+    "Hunt Club Park": {
+      "counts": {
+        "Assaults": 24,
+        "Break and Enter": 9,
+        "Indecent or Harassing Communications": 2,
+        "Mischief": 10,
+        "Robbery": 2,
+        "Theft $5000 and Under": 23,
+        "Theft of Motor Vehicle": 17,
+        "Theft Over $5000": 1,
+        "Uttering Threats": 10
+      },
+      "source_links": [
+        "https://experience.arcgis.com/experience/e5a8c6d852f242758355702fa041c012",
+        "https://services7.arcgis.com/2vhcNzw0NfUwAD3d/arcgis/rest/services/CrimeMap_YE/FeatureServer/16"
+      ]
+    },
+    "Riverside Park": {
+      "counts": {
+        "Assaults": 19,
+        "Break and Enter": 5,
+        "Indecent or Harassing Communications": 3,
+        "Mischief": 14,
+        "Robbery": 4,
+        "Theft $5000 and Under": 30,
+        "Theft of Motor Vehicle": 6,
+        "Theft Over $5000": 1,
+        "Uttering Threats": 4
+      },
+      "source_links": [
+        "https://experience.arcgis.com/experience/e5a8c6d852f242758355702fa041c012",
+        "https://services7.arcgis.com/2vhcNzw0NfUwAD3d/arcgis/rest/services/CrimeMap_YE/FeatureServer/16"
+      ]
+    },
+    "Stittsville": {
+      "counts": {
+        "Arson": 2,
+        "Assaults": 89,
+        "Break and Enter": 32,
+        "Criminal Harassment": 12,
+        "Indecent or Harassing Communications": 21,
+        "Mischief": 87,
+        "Robbery": 6,
+        "Theft $5000 and Under": 204,
+        "Theft of Motor Vehicle": 45,
+        "Theft Over $5000": 13,
+        "Uttering Threats": 36
+      },
+      "source_links": [
+        "https://experience.arcgis.com/experience/e5a8c6d852f242758355702fa041c012",
+        "https://services7.arcgis.com/2vhcNzw0NfUwAD3d/arcgis/rest/services/CrimeMap_YE/FeatureServer/16"
+      ]
+    },
+    "South Keys - Greenboro West": {
+      "counts": {
+        "Arson": 5,
+        "Assaults": 25,
+        "Break and Enter": 12,
+        "Criminal Harassment": 2,
+        "Indecent or Harassing Communications": 2,
+        "Mischief": 24,
+        "Robbery": 11,
+        "Theft $5000 and Under": 698,
+        "Theft of Motor Vehicle": 12,
+        "Theft Over $5000": 3,
+        "Uttering Threats": 13
+      },
+      "source_links": [
+        "https://experience.arcgis.com/experience/e5a8c6d852f242758355702fa041c012",
+        "https://services7.arcgis.com/2vhcNzw0NfUwAD3d/arcgis/rest/services/CrimeMap_YE/FeatureServer/16"
+      ]
+    },
+    "Civic Hospital-Central Park": {
+      "counts": {
+        "Arson": 1,
+        "Assaults": 50,
+        "Attempted Murder": 1,
+        "Break and Enter": 20,
+        "Criminal Harassment": 6,
+        "Indecent or Harassing Communications": 10,
+        "Mischief": 25,
+        "Robbery": 6,
+        "Theft $5000 and Under": 130,
+        "Theft of Motor Vehicle": 20,
+        "Theft Over $5000": 3,
+        "Uttering Threats": 24
+      },
+      "source_links": [
+        "https://experience.arcgis.com/experience/e5a8c6d852f242758355702fa041c012",
+        "https://services7.arcgis.com/2vhcNzw0NfUwAD3d/arcgis/rest/services/CrimeMap_YE/FeatureServer/16"
+      ]
+    },
+    "Glen Cairn - Kanata South Business Park": {
+      "counts": {
+        "Arson": 1,
+        "Assaults": 30,
+        "Break and Enter": 8,
+        "Criminal Harassment": 2,
+        "Indecent or Harassing Communications": 6,
+        "Mischief": 28,
+        "Robbery": 10,
+        "Theft $5000 and Under": 287,
+        "Theft of Motor Vehicle": 8,
+        "Theft Over $5000": 6,
+        "Uttering Threats": 16
+      },
+      "source_links": [
+        "https://experience.arcgis.com/experience/e5a8c6d852f242758355702fa041c012",
+        "https://services7.arcgis.com/2vhcNzw0NfUwAD3d/arcgis/rest/services/CrimeMap_YE/FeatureServer/16"
+      ]
+    },
+    "Ledbury - Heron Gate - Ridgemont": {
+      "counts": {
+        "Arson": 1,
+        "Assaults": 103,
+        "Break and Enter": 33,
+        "Criminal Harassment": 3,
+        "Indecent or Harassing Communications": 11,
+        "Mischief": 82,
+        "Robbery": 27,
+        "Theft $5000 and Under": 281,
+        "Theft of Motor Vehicle": 32,
+        "Theft Over $5000": 5,
+        "Uttering Threats": 25
+      },
+      "source_links": [
+        "https://experience.arcgis.com/experience/e5a8c6d852f242758355702fa041c012",
+        "https://services7.arcgis.com/2vhcNzw0NfUwAD3d/arcgis/rest/services/CrimeMap_YE/FeatureServer/16"
+      ]
+    },
+    "Carlingwood West - Glabar Park - McKellar Heights": {
+      "counts": {
+        "Assaults": 31,
+        "Break and Enter": 48,
+        "Criminal Harassment": 3,
+        "Indecent or Harassing Communications": 1,
+        "Mischief": 33,
+        "Robbery": 4,
+        "Theft $5000 and Under": 248,
+        "Theft of Motor Vehicle": 8,
+        "Theft Over $5000": 6,
+        "Uttering Threats": 9
+      },
+      "source_links": [
+        "https://experience.arcgis.com/experience/e5a8c6d852f242758355702fa041c012",
+        "https://services7.arcgis.com/2vhcNzw0NfUwAD3d/arcgis/rest/services/CrimeMap_YE/FeatureServer/16"
+      ]
+    },
+    "Katimavik - Hazeldean": {
+      "counts": {
+        "Assaults": 33,
+        "Break and Enter": 13,
+        "Criminal Harassment": 4,
+        "Indecent or Harassing Communications": 8,
+        "Mischief": 32,
+        "Robbery": 2,
+        "Theft $5000 and Under": 143,
+        "Theft of Motor Vehicle": 12,
+        "Theft Over $5000": 5,
+        "Uttering Threats": 10
+      },
+      "source_links": [
+        "https://experience.arcgis.com/experience/e5a8c6d852f242758355702fa041c012",
+        "https://services7.arcgis.com/2vhcNzw0NfUwAD3d/arcgis/rest/services/CrimeMap_YE/FeatureServer/16"
+      ]
+    },
+    "Cityview - Crestview - Meadowlands": {
+      "counts": {
+        "Assaults": 63,
+        "Break and Enter": 24,
+        "Criminal Harassment": 7,
+        "Indecent or Harassing Communications": 7,
+        "Mischief": 27,
+        "Robbery": 8,
+        "Theft $5000 and Under": 704,
+        "Theft of Motor Vehicle": 17,
+        "Theft Over $5000": 6,
+        "Uttering Threats": 14
+      },
+      "source_links": [
+        "https://experience.arcgis.com/experience/e5a8c6d852f242758355702fa041c012",
+        "https://services7.arcgis.com/2vhcNzw0NfUwAD3d/arcgis/rest/services/CrimeMap_YE/FeatureServer/16"
+      ]
+    },
+    "Laurentian": {
+      "counts": {
+        "Arson": 1,
+        "Assaults": 33,
+        "Break and Enter": 23,
+        "Criminal Harassment": 3,
+        "Indecent or Harassing Communications": 5,
+        "Mischief": 23,
+        "Robbery": 4,
+        "Theft $5000 and Under": 366,
+        "Theft of Motor Vehicle": 4,
+        "Theft Over $5000": 12,
+        "Uttering Threats": 8
+      },
+      "source_links": [
+        "https://experience.arcgis.com/experience/e5a8c6d852f242758355702fa041c012",
+        "https://services7.arcgis.com/2vhcNzw0NfUwAD3d/arcgis/rest/services/CrimeMap_YE/FeatureServer/16"
+      ]
+    },
+    "Centrepointe": {
+      "counts": {
+        "Arson": 1,
+        "Assaults": 20,
+        "Break and Enter": 7,
+        "Criminal Harassment": 5,
+        "Indecent or Harassing Communications": 3,
+        "Mischief": 20,
+        "Robbery": 1,
+        "Theft $5000 and Under": 28,
+        "Theft of Motor Vehicle": 14,
+        "Theft Over $5000": 2,
+        "Uttering Threats": 9
+      },
+      "source_links": [
+        "https://experience.arcgis.com/experience/e5a8c6d852f242758355702fa041c012",
+        "https://services7.arcgis.com/2vhcNzw0NfUwAD3d/arcgis/rest/services/CrimeMap_YE/FeatureServer/16"
+      ]
+    },
+    "Rideau Crest - Davidson Heights": {
+      "counts": {
+        "Arson": 1,
+        "Assaults": 9,
+        "Break and Enter": 6,
+        "Criminal Harassment": 1,
+        "Indecent or Harassing Communications": 1,
+        "Mischief": 12,
+        "Robbery": 1,
+        "Theft $5000 and Under": 32,
+        "Theft of Motor Vehicle": 5,
+        "Theft Over $5000": 2,
+        "Uttering Threats": 7
+      },
+      "source_links": [
+        "https://experience.arcgis.com/experience/e5a8c6d852f242758355702fa041c012",
+        "https://services7.arcgis.com/2vhcNzw0NfUwAD3d/arcgis/rest/services/CrimeMap_YE/FeatureServer/16"
+      ]
+    },
+    "Emerald Woods - Sawmill Creek": {
+      "counts": {
+        "Arson": 2,
+        "Assaults": 23,
+        "Break and Enter": 8,
+        "Homicide": 1,
+        "Indecent or Harassing Communications": 5,
+        "Mischief": 12,
+        "Robbery": 5,
+        "Theft $5000 and Under": 41,
+        "Theft of Motor Vehicle": 7,
+        "Theft Over $5000": 2,
+        "Uttering Threats": 6
+      },
+      "source_links": [
+        "https://experience.arcgis.com/experience/e5a8c6d852f242758355702fa041c012",
+        "https://services7.arcgis.com/2vhcNzw0NfUwAD3d/arcgis/rest/services/CrimeMap_YE/FeatureServer/16"
+      ]
+    },
+    "Bridlewood - Emerald Meadows": {
+      "counts": {
+        "Arson": 1,
+        "Assaults": 29,
+        "Break and Enter": 6,
+        "Criminal Harassment": 3,
+        "Indecent or Harassing Communications": 2,
+        "Mischief": 27,
+        "Robbery": 1,
+        "Theft $5000 and Under": 37,
+        "Theft of Motor Vehicle": 9,
+        "Theft Over $5000": 5,
+        "Uttering Threats": 5
+      },
+      "source_links": [
+        "https://experience.arcgis.com/experience/e5a8c6d852f242758355702fa041c012",
+        "https://services7.arcgis.com/2vhcNzw0NfUwAD3d/arcgis/rest/services/CrimeMap_YE/FeatureServer/16"
+      ]
+    },
+    "Beaverbrook": {
+      "counts": {
+        "Assaults": 17,
+        "Break and Enter": 8,
+        "Criminal Harassment": 5,
+        "Indecent or Harassing Communications": 6,
+        "Mischief": 28,
+        "Theft $5000 and Under": 22,
+        "Theft of Motor Vehicle": 2,
+        "Uttering Threats": 5
+      },
+      "source_links": [
+        "https://experience.arcgis.com/experience/e5a8c6d852f242758355702fa041c012",
+        "https://services7.arcgis.com/2vhcNzw0NfUwAD3d/arcgis/rest/services/CrimeMap_YE/FeatureServer/16"
+      ]
+    },
+    "Borden Farm - Fisher Glen": {
+      "counts": {
+        "Arson": 1,
+        "Assaults": 29,
+        "Break and Enter": 16,
+        "Criminal Harassment": 2,
+        "Indecent or Harassing Communications": 2,
+        "Mischief": 22,
+        "Robbery": 2,
+        "Theft $5000 and Under": 74,
+        "Theft of Motor Vehicle": 2,
+        "Theft Over $5000": 3,
+        "Uttering Threats": 10
+      },
+      "source_links": [
+        "https://experience.arcgis.com/experience/e5a8c6d852f242758355702fa041c012",
+        "https://services7.arcgis.com/2vhcNzw0NfUwAD3d/arcgis/rest/services/CrimeMap_YE/FeatureServer/16"
+      ]
+    },
+    "Merivale Gardens - Grenfell Glen - Pineglen - Country Place": {
+      "counts": {
+        "Assaults": 7,
+        "Break and Enter": 6,
+        "Criminal Harassment": 1,
+        "Indecent or Harassing Communications": 1,
+        "Mischief": 6,
+        "Theft $5000 and Under": 9,
+        "Theft of Motor Vehicle": 8,
+        "Theft Over $5000": 3,
+        "Uttering Threats": 9
+      },
+      "source_links": [
+        "https://experience.arcgis.com/experience/e5a8c6d852f242758355702fa041c012",
+        "https://services7.arcgis.com/2vhcNzw0NfUwAD3d/arcgis/rest/services/CrimeMap_YE/FeatureServer/16"
+      ]
+    },
+    "Fallingbrook": {
+      "counts": {
+        "Arson": 1,
+        "Assaults": 41,
+        "Break and Enter": 4,
+        "Criminal Harassment": 3,
+        "Indecent or Harassing Communications": 13,
+        "Mischief": 31,
+        "Robbery": 5,
+        "Theft $5000 and Under": 65,
+        "Theft of Motor Vehicle": 10,
+        "Theft Over $5000": 4,
+        "Uttering Threats": 16
+      },
+      "source_links": [
+        "https://experience.arcgis.com/experience/e5a8c6d852f242758355702fa041c012",
+        "https://services7.arcgis.com/2vhcNzw0NfUwAD3d/arcgis/rest/services/CrimeMap_YE/FeatureServer/16"
+      ]
+    },
+    "Carson Grove - Carson Meadows": {
+      "counts": {
+        "Assaults": 74,
+        "Break and Enter": 18,
+        "Criminal Harassment": 3,
+        "Homicide": 1,
+        "Indecent or Harassing Communications": 8,
+        "Mischief": 49,
+        "Robbery": 13,
+        "Theft $5000 and Under": 720,
+        "Theft of Motor Vehicle": 21,
+        "Theft Over $5000": 10,
+        "Uttering Threats": 19
+      },
+      "source_links": [
+        "https://experience.arcgis.com/experience/e5a8c6d852f242758355702fa041c012",
+        "https://services7.arcgis.com/2vhcNzw0NfUwAD3d/arcgis/rest/services/CrimeMap_YE/FeatureServer/16"
+      ]
+    },
+    "Glebe - Dows Lake": {
+      "counts": {
+        "Arson": 2,
+        "Assaults": 36,
+        "Break and Enter": 76,
+        "Criminal Harassment": 2,
+        "Indecent or Harassing Communications": 6,
+        "Mischief": 62,
+        "Robbery": 4,
+        "Theft $5000 and Under": 808,
+        "Theft of Motor Vehicle": 13,
+        "Theft Over $5000": 4,
+        "Uttering Threats": 15
+      },
+      "source_links": [
+        "https://experience.arcgis.com/experience/e5a8c6d852f242758355702fa041c012",
+        "https://services7.arcgis.com/2vhcNzw0NfUwAD3d/arcgis/rest/services/CrimeMap_YE/FeatureServer/16"
+      ]
+    },
+    "East Industrial": {
+      "counts": {
+        "Arson": 4,
+        "Assaults": 58,
+        "Break and Enter": 25,
+        "Criminal Harassment": 1,
+        "Indecent or Harassing Communications": 2,
+        "Mischief": 64,
+        "Robbery": 16,
+        "Theft $5000 and Under": 453,
+        "Theft of Motor Vehicle": 51,
+        "Theft Over $5000": 25,
+        "Uttering Threats": 23
+      },
+      "source_links": [
+        "https://experience.arcgis.com/experience/e5a8c6d852f242758355702fa041c012",
+        "https://services7.arcgis.com/2vhcNzw0NfUwAD3d/arcgis/rest/services/CrimeMap_YE/FeatureServer/16"
+      ]
+    },
+    "Greenbelt": {
+      "counts": {
+        "Assaults": 42,
+        "Break and Enter": 6,
+        "Homicide": 1,
+        "Mischief": 10,
+        "Theft $5000 and Under": 34,
+        "Theft of Motor Vehicle": 10,
+        "Theft Over $5000": 1,
+        "Uttering Threats": 10
+      },
+      "source_links": [
+        "https://experience.arcgis.com/experience/e5a8c6d852f242758355702fa041c012",
+        "https://services7.arcgis.com/2vhcNzw0NfUwAD3d/arcgis/rest/services/CrimeMap_YE/FeatureServer/16"
+      ]
+    },
+    "Crystal Bay - Lakeview Park": {
+      "counts": {
+        "Assaults": 12,
+        "Break and Enter": 4,
+        "Criminal Harassment": 2,
+        "Indecent or Harassing Communications": 1,
+        "Mischief": 2,
+        "Theft $5000 and Under": 12,
+        "Theft of Motor Vehicle": 2,
+        "Theft Over $5000": 2,
+        "Uttering Threats": 4
+      },
+      "source_links": [
+        "https://experience.arcgis.com/experience/e5a8c6d852f242758355702fa041c012",
+        "https://services7.arcgis.com/2vhcNzw0NfUwAD3d/arcgis/rest/services/CrimeMap_YE/FeatureServer/16"
+      ]
+    },
+    "Fitzroy": {
+      "counts": {
+        "Assaults": 5,
+        "Break and Enter": 6,
+        "Criminal Harassment": 2,
+        "Mischief": 4,
+        "Theft $5000 and Under": 3,
+        "Theft of Motor Vehicle": 1,
+        "Uttering Threats": 2
+      },
+      "source_links": [
+        "https://experience.arcgis.com/experience/e5a8c6d852f242758355702fa041c012",
+        "https://services7.arcgis.com/2vhcNzw0NfUwAD3d/arcgis/rest/services/CrimeMap_YE/FeatureServer/16"
+      ]
+    },
+    "Greenboro East": {
+      "counts": {
+        "Assaults": 33,
+        "Break and Enter": 8,
+        "Criminal Harassment": 3,
+        "Indecent or Harassing Communications": 10,
+        "Mischief": 16,
+        "Robbery": 3,
+        "Theft $5000 and Under": 30,
+        "Theft of Motor Vehicle": 9,
+        "Theft Over $5000": 1,
+        "Uttering Threats": 9
+      },
+      "source_links": [
+        "https://experience.arcgis.com/experience/e5a8c6d852f242758355702fa041c012",
+        "https://services7.arcgis.com/2vhcNzw0NfUwAD3d/arcgis/rest/services/CrimeMap_YE/FeatureServer/16"
+      ]
+    },
+    "Carp": {
+      "counts": {
+        "Arson": 1,
+        "Assaults": 9,
+        "Break and Enter": 12,
+        "Indecent or Harassing Communications": 3,
+        "Mischief": 9,
+        "Robbery": 1,
+        "Theft $5000 and Under": 15,
+        "Theft of Motor Vehicle": 6,
+        "Theft Over $5000": 4,
+        "Uttering Threats": 5
+      },
+      "source_links": [
+        "https://experience.arcgis.com/experience/e5a8c6d852f242758355702fa041c012",
+        "https://services7.arcgis.com/2vhcNzw0NfUwAD3d/arcgis/rest/services/CrimeMap_YE/FeatureServer/16"
+      ]
+    },
+    "Hunt Club East - Western Community": {
+      "counts": {
+        "Arson": 3,
+        "Assaults": 29,
+        "Break and Enter": 13,
+        "Indecent or Harassing Communications": 1,
+        "Mischief": 19,
+        "Robbery": 4,
+        "Theft $5000 and Under": 58,
+        "Theft of Motor Vehicle": 13,
+        "Theft Over $5000": 3,
+        "Uttering Threats": 15
+      },
+      "source_links": [
+        "https://experience.arcgis.com/experience/e5a8c6d852f242758355702fa041c012",
+        "https://services7.arcgis.com/2vhcNzw0NfUwAD3d/arcgis/rest/services/CrimeMap_YE/FeatureServer/16"
+      ]
+    },
+    "Vars": {
+      "counts": {
+        "Arson": 1,
+        "Assaults": 4,
+        "Break and Enter": 5,
+        "Indecent or Harassing Communications": 1,
+        "Mischief": 3,
+        "Theft $5000 and Under": 4,
+        "Theft of Motor Vehicle": 6,
+        "Uttering Threats": 2
+      },
+      "source_links": [
+        "https://experience.arcgis.com/experience/e5a8c6d852f242758355702fa041c012",
+        "https://services7.arcgis.com/2vhcNzw0NfUwAD3d/arcgis/rest/services/CrimeMap_YE/FeatureServer/16"
+      ]
+    },
+    "Braemar Park - Bel Air Heights - Copeland Park": {
+      "counts": {
+        "Assaults": 14,
+        "Break and Enter": 19,
+        "Indecent or Harassing Communications": 3,
+        "Mischief": 19,
+        "Robbery": 3,
+        "Theft $5000 and Under": 40,
+        "Theft of Motor Vehicle": 7,
+        "Theft Over $5000": 1,
+        "Uttering Threats": 5
+      },
+      "source_links": [
+        "https://experience.arcgis.com/experience/e5a8c6d852f242758355702fa041c012",
+        "https://services7.arcgis.com/2vhcNzw0NfUwAD3d/arcgis/rest/services/CrimeMap_YE/FeatureServer/16"
+      ]
+    },
+    "Hunt Club South Industrial": {
+      "counts": {
+        "Arson": 3,
+        "Assaults": 13,
+        "Break and Enter": 19,
+        "Indecent or Harassing Communications": 4,
+        "Mischief": 26,
+        "Theft $5000 and Under": 47,
+        "Theft of Motor Vehicle": 13,
+        "Theft Over $5000": 3,
+        "Uttering Threats": 6
+      },
+      "source_links": [
+        "https://experience.arcgis.com/experience/e5a8c6d852f242758355702fa041c012",
+        "https://services7.arcgis.com/2vhcNzw0NfUwAD3d/arcgis/rest/services/CrimeMap_YE/FeatureServer/16"
+      ]
+    },
+    "Old Barrhaven West": {
+      "counts": {
+        "Assaults": 51,
+        "Break and Enter": 6,
+        "Criminal Harassment": 3,
+        "Homicide": 1,
+        "Indecent or Harassing Communications": 5,
+        "Mischief": 31,
+        "Robbery": 5,
+        "Theft $5000 and Under": 43,
+        "Theft of Motor Vehicle": 11,
+        "Theft Over $5000": 3,
+        "Uttering Threats": 14
+      },
+      "source_links": [
+        "https://experience.arcgis.com/experience/e5a8c6d852f242758355702fa041c012",
+        "https://services7.arcgis.com/2vhcNzw0NfUwAD3d/arcgis/rest/services/CrimeMap_YE/FeatureServer/16"
+      ]
+    },
+    "Old Ottawa South": {
+      "counts": {
+        "Assaults": 7,
+        "Break and Enter": 15,
+        "Indecent or Harassing Communications": 2,
+        "Mischief": 23,
+        "Robbery": 1,
+        "Theft $5000 and Under": 39,
+        "Theft of Motor Vehicle": 4,
+        "Uttering Threats": 4
+      },
+      "source_links": [
+        "https://experience.arcgis.com/experience/e5a8c6d852f242758355702fa041c012",
+        "https://services7.arcgis.com/2vhcNzw0NfUwAD3d/arcgis/rest/services/CrimeMap_YE/FeatureServer/16"
+      ]
+    },
+    "Playfair Park - Lynda Park - Guildwood Estates": {
+      "counts": {
+        "Assaults": 7,
+        "Break and Enter": 3,
+        "Mischief": 10,
+        "Theft $5000 and Under": 13,
+        "Theft of Motor Vehicle": 2,
+        "Uttering Threats": 7
+      },
+      "source_links": [
+        "https://experience.arcgis.com/experience/e5a8c6d852f242758355702fa041c012",
+        "https://services7.arcgis.com/2vhcNzw0NfUwAD3d/arcgis/rest/services/CrimeMap_YE/FeatureServer/16"
+      ]
+    },
+    "Chapman Mills": {
+      "counts": {
+        "Arson": 1,
+        "Assaults": 38,
+        "Break and Enter": 7,
+        "Indecent or Harassing Communications": 3,
+        "Mischief": 29,
+        "Robbery": 4,
+        "Theft $5000 and Under": 533,
+        "Theft of Motor Vehicle": 13,
+        "Theft Over $5000": 3,
+        "Uttering Threats": 10
+      },
+      "source_links": [
+        "https://experience.arcgis.com/experience/e5a8c6d852f242758355702fa041c012",
+        "https://services7.arcgis.com/2vhcNzw0NfUwAD3d/arcgis/rest/services/CrimeMap_YE/FeatureServer/16"
+      ]
+    },
+    "Brookside - Briarbrook - Morgan's Grant": {
+      "counts": {
+        "Arson": 4,
+        "Assaults": 17,
+        "Break and Enter": 10,
+        "Criminal Harassment": 2,
+        "Indecent or Harassing Communications": 3,
+        "Mischief": 36,
+        "Robbery": 2,
+        "Theft $5000 and Under": 52,
+        "Theft of Motor Vehicle": 15,
+        "Theft Over $5000": 7,
+        "Uttering Threats": 8
+      },
+      "source_links": [
+        "https://experience.arcgis.com/experience/e5a8c6d852f242758355702fa041c012",
+        "https://services7.arcgis.com/2vhcNzw0NfUwAD3d/arcgis/rest/services/CrimeMap_YE/FeatureServer/16"
+      ]
+    },
+    "Beacon Hill South - Cardinal Heights": {
+      "counts": {
+        "Arson": 1,
+        "Assaults": 37,
+        "Break and Enter": 6,
+        "Criminal Harassment": 2,
+        "Indecent or Harassing Communications": 4,
+        "Mischief": 37,
+        "Robbery": 3,
+        "Theft $5000 and Under": 84,
+        "Theft of Motor Vehicle": 13,
+        "Uttering Threats": 9
+      },
+      "source_links": [
+        "https://experience.arcgis.com/experience/e5a8c6d852f242758355702fa041c012",
+        "https://services7.arcgis.com/2vhcNzw0NfUwAD3d/arcgis/rest/services/CrimeMap_YE/FeatureServer/16"
+      ]
+    },
+    "Blackburn Hamlet": {
+      "counts": {
+        "Arson": 3,
+        "Assaults": 23,
+        "Break and Enter": 16,
+        "Indecent or Harassing Communications": 3,
+        "Mischief": 21,
+        "Robbery": 4,
+        "Theft $5000 and Under": 55,
+        "Theft of Motor Vehicle": 8,
+        "Theft Over $5000": 1,
+        "Uttering Threats": 10
+      },
+      "source_links": [
+        "https://experience.arcgis.com/experience/e5a8c6d852f242758355702fa041c012",
+        "https://services7.arcgis.com/2vhcNzw0NfUwAD3d/arcgis/rest/services/CrimeMap_YE/FeatureServer/16"
+      ]
+    },
+    "Hunt Club Woods - Quintarra - Revelstoke": {
+      "counts": {
+        "Assaults": 10,
+        "Break and Enter": 7,
+        "Indecent or Harassing Communications": 3,
+        "Mischief": 11,
+        "Robbery": 3,
+        "Theft $5000 and Under": 186,
+        "Theft of Motor Vehicle": 6,
+        "Theft Over $5000": 6,
+        "Uttering Threats": 8
+      },
+      "source_links": [
+        "https://experience.arcgis.com/experience/e5a8c6d852f242758355702fa041c012",
+        "https://services7.arcgis.com/2vhcNzw0NfUwAD3d/arcgis/rest/services/CrimeMap_YE/FeatureServer/16"
+      ]
+    },
+    "Briar Green - Leslie Park": {
+      "counts": {
+        "Assaults": 11,
+        "Break and Enter": 2,
+        "Indecent or Harassing Communications": 4,
+        "Mischief": 10,
+        "Theft $5000 and Under": 16,
+        "Theft of Motor Vehicle": 4,
+        "Theft Over $5000": 1,
+        "Uttering Threats": 6
+      },
+      "source_links": [
+        "https://experience.arcgis.com/experience/e5a8c6d852f242758355702fa041c012",
+        "https://services7.arcgis.com/2vhcNzw0NfUwAD3d/arcgis/rest/services/CrimeMap_YE/FeatureServer/16"
+      ]
+    },
+    "Tanglewood": {
+      "counts": {
+        "Arson": 3,
+        "Assaults": 17,
+        "Break and Enter": 3,
+        "Indecent or Harassing Communications": 5,
+        "Mischief": 17,
+        "Robbery": 3,
+        "Theft $5000 and Under": 53,
+        "Theft of Motor Vehicle": 1,
+        "Theft Over $5000": 3,
+        "Uttering Threats": 5
+      },
+      "source_links": [
+        "https://experience.arcgis.com/experience/e5a8c6d852f242758355702fa041c012",
+        "https://services7.arcgis.com/2vhcNzw0NfUwAD3d/arcgis/rest/services/CrimeMap_YE/FeatureServer/16"
+      ]
+    },
+    "Marlborough": {
+      "counts": {
+        "Arson": 1,
+        "Break and Enter": 4,
+        "Indecent or Harassing Communications": 1,
+        "Theft $5000 and Under": 1,
+        "Theft of Motor Vehicle": 5,
+        "Uttering Threats": 1
+      },
+      "source_links": [
+        "https://experience.arcgis.com/experience/e5a8c6d852f242758355702fa041c012",
+        "https://services7.arcgis.com/2vhcNzw0NfUwAD3d/arcgis/rest/services/CrimeMap_YE/FeatureServer/16"
+      ]
+    },
+    "Notre-Dame Cemetery": {
+      "counts": {
+        "Assaults": 1,
+        "Mischief": 1
+      },
+      "source_links": [
+        "https://experience.arcgis.com/experience/e5a8c6d852f242758355702fa041c012",
+        "https://services7.arcgis.com/2vhcNzw0NfUwAD3d/arcgis/rest/services/CrimeMap_YE/FeatureServer/16"
+      ]
+    }
+  },
+  "metadata": {
+    "source_links": [
+      "https://experience.arcgis.com/experience/e5a8c6d852f242758355702fa041c012",
+      "https://services7.arcgis.com/2vhcNzw0NfUwAD3d/arcgis/rest/services/CrimeMap_YE/FeatureServer/16"
+    ],
+    "dropped": {
+      "null_neighbourhood_rows": 4,
+      "null_category_rows": 0,
+      "bad_count_rows": 0
+    }
+  }
+}
