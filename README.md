@@ -1,7 +1,7 @@
 # 🗺️ Ottawa Neighbourhood Safety Map
 
 An interactive web application that visualizes neighbourhood safety scores across Ottawa using an interactive map.  
-Built as a **team project during uOttahack**, combining a FastAPI backend with a lightweight JavaScript frontend.
+Built as a **team project during uOttahack 8**, combining a FastAPI backend with a lightweight JavaScript frontend.
 
 ---
 
