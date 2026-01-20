@@ -67,7 +67,7 @@ ottawa-neighborhood-safety/
 5. Area overview summaries
 --
 ## 👥 Team Project
-This project was developed collaboratively during uOttahack under time constraints.
+This project was developed collaboratively during uOttahack 8 under time constraints.
 
 Key takeaways:
 
